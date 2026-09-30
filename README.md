@@ -1,9 +1,8 @@
-# RumScale — guide utilisateur
+# RumScale — documentation
 
-[Ouvrir le guide de configuration et la FAQ](https://pbouffaut.github.io/RumScale-guide/)
+Le guide est désormais publié directement depuis le dépôt principal public.
 
-Première connexion, nouveau Wi-Fi, calibration, veille, alertes Telegram, remise à zéro, cadeau et dépannage. Le guide inclut 24 questions fréquentes, une recherche locale et une version imprimable.
+- [Lire le guide et la FAQ](https://pbouffaut.github.io/RumScale/)
+- [Accéder au projet RumScale](https://github.com/pbouffaut/RumScale)
 
-Ce dépôt contient uniquement le site de documentation. GitHub Pages publie la branche `main` à partir de la racine.
-
-Les fichiers de référence sont maintenus dans le dossier `docs/` du projet RumScale.
+Ce dépôt de transition redirige vers l’adresse définitive. Les modifications de documentation se font dans le dossier `docs/` du dépôt RumScale.
